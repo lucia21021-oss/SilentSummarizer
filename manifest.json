@@ -1,8 +1,8 @@
 {
     "display_name": "Silent Summarizer",
     "author": "User",
-    "version": "33.0.0",
+    "version": "34.0.0",
     "js": "index.js",
     "css": "style.css",
-    "description": "v33 - 5栏完整版 (手动/自动/世界书/数据/设置)"
+    "description": "v34 - 终极修复版 (5栏/原生UI/高兼容性)"
 }
