@@ -1,0 +1,8 @@
+{
+    "display_name": "Silent Summarizer",
+    "author": "User",
+    "version": "31.0.0",
+    "js": "index.js",
+    "css": "style.css",
+    "description": "v31 - 完美复刻 v16 核心提示词与逻辑"
+}
